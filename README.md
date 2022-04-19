@@ -2,7 +2,18 @@
 
 Math Magicians is a react web app that has a feature of simple calculator and also generates a random math related quotes. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Built With
+
+- Major languages: Javascript
+- Frameworks: ReactJS
+- Technologies used: Webpack, Babel, 
+
+## Live Demo (if available)
+
+[Live Demo Link](https://livedemo.com)
+
+
+## Getting Started
 
 In the project directory, you can run:
 
@@ -69,6 +80,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## License
+## Author
+
+👤 **Wuletaw Wonte**
+
+- GitHub: [@wuletawwonte](https://github.com/wuletawwonte)
+- Twitter: [@wuletaww](https://twitter.com/wuletaww)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/wuletaw-wonte)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
 
 All source code files are licensed under the permissive **[MIT](./LICENSE.md)** License unless marked differently in a particular folder/file.
