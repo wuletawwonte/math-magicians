@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Math Magicians
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Math Magicians is a react web app that has a feature of simple calculator and also generates a random math related quotes. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## License
+
+All source code files are licensed under the permissive **[MIT](./LICENSE.md)** License unless marked differently in a particular folder/file.
