@@ -1,0 +1,17 @@
+.calculator {
+  display: grid;
+  grid-template-columns: repeat(4, 40px);
+}
+
+.c-item {
+  border-radius: 0;
+  border: 1px solid gray;
+}
+
+.output {
+  grid-column: 1 / span 4;
+}
+
+.zero {
+  grid-column: 1 / span 2;
+}
