@@ -14,7 +14,8 @@
   grid-column: 1 / span 4;
   background-color: #858193;
   display: flex;
-  text-align: end;
+  align-items: center;
+  justify-content: flex-end;
   font-size: 25px;
   color: white;
   padding-right: 10px;

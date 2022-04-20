@@ -10,7 +10,7 @@ class Calculator extends React.Component {
   render() {
     return (
       <div className="calculator">
-        <input type="text" className="output c-item" value="0" />
+        <span className="output c-item">0</span>
         <button type="button" className="c-item">AC</button>
         <button type="button" className="c-item">+/-</button>
         <button type="button" className="c-item">%</button>
