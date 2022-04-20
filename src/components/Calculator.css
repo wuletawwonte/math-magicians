@@ -1,17 +1,29 @@
 .calculator {
   display: grid;
-  grid-template-columns: repeat(4, 40px);
+  grid-template-columns: repeat(4, 80px);
 }
 
 .c-item {
   border-radius: 0;
   border: 1px solid gray;
+  background-color: #dfdfdf;
+  height: 50px;
 }
 
 .output {
   grid-column: 1 / span 4;
+  background-color: #858193;
+  display: flex;
+  text-align: end;
+  font-size: 25px;
+  color: white;
+  padding-right: 10px;
 }
 
 .zero {
   grid-column: 1 / span 2;
+}
+
+.bg-orange {
+  background-color: #f69510;
 }
