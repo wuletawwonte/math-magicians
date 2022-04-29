@@ -3,7 +3,7 @@ import React from 'react';
 const Quotes = () => (
   <section className="quote">
     <div className="hello">
-      <div className="quote-section">
+      <div style={{ fontSize: '20px', textAlign: 'center' }}>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi magni
         quidem asperiores odio similique fugit consequuntur, sapiente inventore
         accusantium distinctio?
