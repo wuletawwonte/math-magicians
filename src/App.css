@@ -8,3 +8,10 @@
   justify-content: center;
   padding-top: 100px;
 }
+
+.homepage,
+.quote,
+.calculator-page,
+.not-match {
+  margin: 50px;
+}
