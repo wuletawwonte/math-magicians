@@ -1,4 +1,5 @@
 import React from 'react';
+import './Home.css';
 
 const Home = () => (
   <section className="homepage">
@@ -17,6 +18,7 @@ const Home = () => (
         architecto. Ipsum quod soluta, nemo officia voluptates ex vero,
         explicabo modi et, aliquid magni aspernatur perferendis sed enim.
       </p>
+      <br />
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi sunt
         dolore, labore adipisci pariatur fugit magni, molestiae odio provident
