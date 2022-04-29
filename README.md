@@ -10,7 +10,7 @@ Math Magicians is a react web app that has a feature of simple calculator and al
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Netlify](https://math-magician-wuletaw.netlify.app/)
 
 
 ## Getting Started
