@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import CalculatorPage from './pages/CalculatorPage';
 import Quotes from './pages/Quotes';
-import NoMatch from './pages/NoMatch';
+import NotMatch from './pages/NotMatch';
 import './App.css';
 
 const App = () => (
@@ -14,7 +14,7 @@ const App = () => (
       <Route path="/" element={<Home />} />
       <Route path="/calculator" element={<CalculatorPage />} />
       <Route path="/quote" element={<Quotes />} />
-      <Route path="*" element={<NoMatch />} />
+      <Route path="*" element={<NotMatch />} />
     </Routes>
   </>
 );
